@@ -17,4 +17,4 @@
 
 [Ejercicios prácticos de python](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/PythonBasico_1680776.ipynb)
 
-[Avance I Proyecto Integrador]()
+[Avance I Proyecto Integrador](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/Avance1-PIA_1_012.pdf)
