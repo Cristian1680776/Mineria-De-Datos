@@ -22,3 +22,7 @@
 [Ejercicio limpieza de datos](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Limpieza%20de%20datos/Limpieza_datos.ipynb)
 
 [Ejercicio visualización](https://github.com/EdgarBladimir455/FCFM/blob/master/MineriaDatos/Trabajos/Visualizacion%20de%20datos/Visualizacion_datos.ipynb)
+
+
+## FASE 3
+[Segundo avance del PIA](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/AvancePIA_II_012_1.ipynb)
