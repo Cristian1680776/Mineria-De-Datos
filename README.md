@@ -27,4 +27,4 @@
 ## FASE 3
 [Segundo avance del PIA](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/AvancePIA_II_012_1.ipynb)
 
-[Poster Final](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/Poster_Final.jpg)
+[Poster Final](https://github.com/Cristian1680776/Mineria-De-Datos/blob/master/Tareas/PIA_01_012.pdf)
